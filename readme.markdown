@@ -1,13 +1,13 @@
 #RETRO
 ```
-   ,,,,,,,,,
-  /       /|
- /       / |
-|```````|  |
-|   [ ] | /,
-|      _|/ \
-|      \  /
-|_______\/   
+   ,,,,,,,,,      ,,,,,,,,,,    ,,,,,,,,,,    ,,,,,,,,,     ,,,,,,,,,  
+  /       /|     /        /|   /        /|   /       /|    /       /|
+ /       / |    /        / |  /        / |  /       / |   /       / |
+|```````|  |   |````````|  | |````````| /  |```````|  |  |````````| |
+|   [ ] | /,   |  [:::] | /| |      ,,|/   |   [ ] | /,  |   ,,   | |
+|      _|/ \   |  ______|/ |  |     |  |   |      _|/ \  |  [  ]  | | 
+|      \  /    |  |;... | /   |     | /    |      \  /   |   ``   | / 
+|_______\/     |________|/    |.....|/     |_______\/    |________|/
 ```
 A lib that harkens back to the old days when everything 
 was an acronym and you had to shout at the computer to get it to do anything.
@@ -60,3 +60,5 @@ retro
 *** thinking outloud ***
 TRY...CATCH...FINALLY will probably be the most useful. 
 because often one does use an async error value to test something.
+
+sync if returns.
